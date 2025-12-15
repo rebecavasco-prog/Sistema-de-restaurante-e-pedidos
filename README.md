@@ -235,32 +235,6 @@ Estrutura do Relatório:
 12. **Frontend**: Limpa formulário e recarrega lista de pedidos
 13. **Frontend**: Exibe mensagem de sucesso ao usuário
 
-### Decisões de Design
-
-#### **Por que React?**
-React foi escolhido pela sua popularidade, facilidade de aprendizado e capacidade de criar interfaces dinâmicas e reativas. A abordagem de componentes facilita a manutenção e reutilização de código.
-
-#### **Por que Express?**
-Express é o framework Node.js mais popular, com sintaxe simples e grande flexibilidade. Perfeito para criar APIs RESTful de forma rápida e eficiente.
-
-#### **Por que Tailwind CSS?**
-Tailwind acelera o desenvolvimento de interfaces sem a necessidade de escrever CSS customizado. Facilita a criação de designs responsivos e consistentes.
-
-#### **Por que In-Memory Storage?**
-Para fins educacionais e de demonstração, o armazenamento em memória é suficiente. Facilita o entendimento da lógica sem a complexidade adicional de configurar um banco de dados.
-
-### Possíveis Melhorias Futuras
-
-- **Banco de Dados**: Integração com PostgreSQL ou MongoDB
-- **Autenticação**: Sistema de login e controle de acesso
-- **Validações**: Biblioteca como Joi ou Yup para validação robusta
-- **Testes**: Jest para testes unitários e de integração
-- **Docker**: Containerização para facilitar deploy
-- **TypeScript**: Adicionar tipagem estática ao projeto
-- **Paginação**: Para lidar com grandes volumes de dados
-- **WebSocket**: Atualizações em tempo real
-- **Upload de Imagens**: Para fotos dos pratos
-
 ---
 
 ## 📦 Instalação e Execução
